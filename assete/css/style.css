@@ -1,0 +1,192 @@
+*body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #000000;
+    max-width: 100%;
+}
+
+.header {
+    background-color: #000000;
+}
+
+#id2 {
+    width: 100%;
+    height: 73px;
+    opacity: 1;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.titulo {
+    color: #fff;
+    text-align: center;
+    font-size: 3.5em;
+    background: #000000 0% 0% no-repeat padding-box;
+    margin: 1px;
+    font: normal normal medium 50px/59px Raleway;
+    width: 100%;
+}
+
+.main {
+    width: 100%;
+    background-color: #000000;
+    opacity: 1;
+}
+
+.img {
+    top: 73px;
+    left: 0px;
+    height: 727px;
+    opacity: 1;
+    background-color: #000000;
+    width: 100vw;
+}
+
+.centro {
+    top: 800px;
+    left: 0px;
+    height: 348px;
+    background: #000000;
+    width: 100%;
+}
+
+.texto {
+    position: relative;
+    bottom: -80px;
+    left: 100px;
+    width: 475px;
+    height: 197px;
+    font: normal normal 300 16px/19px Raleway;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+}
+
+.img2 {
+    position: relative;
+    bottom: 130px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+}
+
+.abajo {
+    top: 1141px;
+    left: 0px;
+    width: 100vw;
+    height: 348px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+    text-align: center;
+}
+
+.texto2 {
+    position: relative;
+    top: 60px;
+    left: 580px;
+    width: 356px;
+    height: 47px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+    font-size: 3.0em;
+    font: normal normal medium 30px/47px Raleway;
+}
+
+.icono {
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    color: #ffffff;
+    top: 70px
+}
+
+.icono1 {
+    position: relative;
+    font-size: 3em;
+    right: 400px;
+    bottom: -32px;
+}
+
+.icono2 {
+    position: relative;
+    font-size: 3em;
+    right: 40px;
+    bottom: 30px;
+}
+
+.icono3 {
+    position: relative;
+    font-size: 3em;
+    left: 350px;
+    bottom: 80px;
+}
+
+.parrafo1 {
+    position: relative;
+    bottom: 80px;
+    left: -400px;
+    font-size: 2em;
+}
+
+.parrafo2 {
+    position: relative;
+    bottom: 150px;
+    left: -40px;
+    font-size: 2em;
+}
+
+.parrafo3 {
+    position: relative;
+    bottom: 220px;
+    left: 340px;
+    font-size: 2em;
+}
+
+.final {
+    top: 1488px;
+    left: 0px;
+    width: 1280px;
+    height: 348px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 0.96;
+}
+
+.footer {
+    height: 6vw;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+}
+
+.visita {
+    position: relative;
+    bottom: -25px;
+    left: 450px;
+    color: #ffffff;
+}
+
+.iguana2 {
+    position: relative;
+    bottom: -50px;
+    left: 150px;
+    width: 50%;
+}
+
+.iguana3 {
+    position: relative;
+    bottom: 207px;
+    left: 600px;
+    width: 87%;
+}
+
+.iguana4 {
+    position: relative;
+    bottom: 465px;
+    left: 990px;
+    width: 85%;
+}
